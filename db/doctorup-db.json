@@ -1,0 +1,312 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Raghu",
+      "rating": "5",
+      "username": "raghu",
+      "password": "raghu",
+      "education": "DM - Cardiology, MD - General Medicine, MBBS",
+      "specialization": "Cardiologist",
+      "experience": "35 Years Experience Overall  (32 years as specialist)",
+      "description": "Dr.Raghu was a Professor of Cardiology in Sri Jayadeva institute of Cardiology, Bangalore.",
+      "slots": []
+    },
+    {
+      "id": 3,
+      "name": "Sreekanth",
+      "rating": "4",
+      "username": "sreekanth",
+      "password": "sreekanth",
+      "education": "MD - General Medicine, DM - Cardiology, MBBS",
+      "specialization": "Cardiologist",
+      "experience": "24 Years Experience Overall  (17 years as specialist)",
+      "description": "Dr. Sreekanth B. Shetty completed his MD (Internal Medicine) from the prestigious KEM Hospital and Seth GS Medical College, Mumbai with a Gold Medal in Internal Medicine in the year 2000.",
+      "slots": []
+    },
+    {
+      "id": 4,
+      "name": "Joshy",
+      "rating": "3",
+      "username": "joshy",
+      "password": "joshy",
+      "education": "MBBS, MD - General Medicine, DM - Neurology",
+      "specialization": "Neurologist",
+      "experience": "39 Years Experience Overall  (33 years as specialist)",
+      "description": "With 37 years of practicing experience, Dr Joshy is a veteran neurologist with a staggering academic and clinical record including 100,000 Neurology consultations in 9 years at Sri Sathya Sai Super-speciality Hospital, apart from his administrative contributions as HOD Neurology Department, Hospital Executive Committee, Hospital Recruitment committee, Hospital Patient care committee, Hospital Welfare Society. ",
+      "slots": [
+        {
+          "slotDayLabel": "2ndMarch",
+          "slotDay": "2021-03-02T00:00:00.000Z",
+          "values": [
+            {
+              "slotTimeLabel": "10am-11am",
+              "slotTime": "2021-03-02T10:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "11am-12am",
+              "slotTime": "2021-03-02T11:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "12am-1am",
+              "slotTime": "2021-03-02T12:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "4pm-5pm",
+              "slotTime": "2021-03-02T16:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "5pm-6pm",
+              "slotTime": "2021-03-02T17:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "6pm-7pm",
+              "slotTime": "2021-03-02T18:00:00.000Z",
+              "available": true
+            }
+          ]
+        },
+        {
+          "slotDayLabel": "3rdMarch",
+          "slotDay": "2021-03-03T00:00:00.000Z",
+          "values": [
+            {
+              "slotTimeLabel": "10am-11am",
+              "slotTime": "2021-03-03T10:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "11am-12am",
+              "slotTime": "2021-03-03T11:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "12am-1am",
+              "slotTime": "2021-03-03T12:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "4pm-5pm",
+              "slotTime": "2021-03-03T16:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "5pm-6pm",
+              "slotTime": "2021-03-03T17:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "6pm-7pm",
+              "slotTime": "2021-03-03T18:00:00.000Z",
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Induja",
+      "rating": "5",
+      "username": "induja",
+      "password": "induja",
+      "education": "MCh - Neuro Surgery, MBBS",
+      "specialization": "Neurologist",
+      "experience": "35 Years Experience Overall  (25 years as specialist)",
+      "description": "Dr. N Chandrashekar is a Neurosurgeon and Neurologist in HSR Layout, Bangalore and has an experience of 35 years in these fields. Dr. N Chandrashekar practices at IKOC - International Knee & Orthopaedic Centre in HSR Layout, Bangalore,Chandini Neuro Specality Clinic in HSR Layout, Bangalore and Sakra World Hospital in Bellandur, Bangalore. ",
+      "slots": [
+        {
+          "slotDayLabel": "08-March-2021",
+          "values": [
+            {
+              "slotTimeLabel": "10am-11am",
+              "slotTime": "Mon Mar 08 2021 10:00:00 GMT+0530 (India Standard Time)",
+              "available": false
+            },
+            {
+              "slotTimeLabel": "11am-12pm",
+              "slotTime": "Mon Mar 08 2021 11:00:00 GMT+0530 (India Standard Time)",
+              "available": false
+            },
+            {
+              "slotTimeLabel": "12pm-1am",
+              "slotTime": "Mon Mar 08 2021 12:00:00 GMT+0530 (India Standard Time)",
+              "available": false
+            },
+            {
+              "slotTimeLabel": "16pm-17pm",
+              "slotTime": "Mon Mar 08 2021 16:00:00 GMT+0530 (India Standard Time)",
+              "available": false
+            },
+            {
+              "slotTimeLabel": "17pm-18pm",
+              "slotTime": "Mon Mar 08 2021 17:00:00 GMT+0530 (India Standard Time)",
+              "available": false
+            },
+            {
+              "slotTimeLabel": "18pm-19pm",
+              "slotTime": "Mon Mar 08 2021 18:00:00 GMT+0530 (India Standard Time)",
+              "available": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Santhosh Kumar",
+      "rating": "2",
+      "username": "santhosh",
+      "password": "santhosh",
+      "education": "DM - Neurology, MBBS",
+      "specialization": "Neurologist",
+      "experience": "15 Years Experience Overall  (13 years as specialist)",
+      "description": "Dr. Santhosh Kumar is a Neuro Physician at Health India Hospital, Bangalore. He specializes in epilepsy, stroke, headache, parkinson's disease, and neuromuscular disorders. As a committed doctor, he has undergone wide training programs, attended many seminars, and has multiple publications to his credit. ",
+      "slots": [
+        {
+          "slotDayLabel": "2ndMarch",
+          "slotDay": "2021-03-02T00:00:00.000Z",
+          "values": [
+            {
+              "slotTimeLabel": "10am-11am",
+              "slotTime": "2021-03-02T10:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "11am-12am",
+              "slotTime": "2021-03-02T11:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "12am-1am",
+              "slotTime": "2021-03-02T12:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "4pm-5pm",
+              "slotTime": "2021-03-02T16:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "5pm-6pm",
+              "slotTime": "2021-03-02T17:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "6pm-7pm",
+              "slotTime": "2021-03-02T18:00:00.000Z",
+              "available": true
+            }
+          ]
+        },
+        {
+          "slotDayLabel": "3rdMarch",
+          "slotDay": "2021-03-03T00:00:00.000Z",
+          "values": [
+            {
+              "slotTimeLabel": "10am-11am",
+              "slotTime": "2021-03-03T10:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "11am-12am",
+              "slotTime": "2021-03-03T11:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "12am-1am",
+              "slotTime": "2021-03-03T12:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "4pm-5pm",
+              "slotTime": "2021-03-03T16:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "5pm-6pm",
+              "slotTime": "2021-03-03T17:00:00.000Z",
+              "available": true
+            },
+            {
+              "slotTimeLabel": "6pm-7pm",
+              "slotTime": "2021-03-03T18:00:00.000Z",
+              "available": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "patients": [
+    {
+      "id": 1,
+      "name": "Emily",
+      "age": "28",
+      "username": "emily",
+      "password": "emily",
+      "gender": "female",
+      "contact": 9876543210
+    },
+    {
+      "id": 2,
+      "name": "Uma",
+      "age": "30",
+      "username": "uma",
+      "password": "uma",
+      "gender": "female",
+      "contact": 8976543210
+    },
+    {
+      "id": 3,
+      "name": "Selena",
+      "age": "25",
+      "username": "selena",
+      "password": "selena",
+      "gender": "female",
+      "contact": 7970943210
+    },
+    {
+      "id": 4,
+      "name": "Prasanth",
+      "age": "34",
+      "username": "prasanth",
+      "password": "prasanth",
+      "gender": "male",
+      "contact": 9841366390
+    }
+  ],
+  "appointments": [
+    {
+      "doctorname": "Santhosh",
+      "patientname": "Emily",
+      "patientage": "28",
+      "patientgender": "female",
+      "appointmentTime": "4pm-5pm",
+      "patientsymptoms": "4",
+      "patientcontact": 9876543210,
+      "specialization": "Cardiologist",
+      "appointmentDate": "2ndMarch",
+      "appointmentFullDate": "2021-03-02T16:00:00.000Z",
+      "id": 1
+    },
+    {
+      "doctorname": "Sreekanth",
+      "patientname": "Emily",
+      "patientage": "28",
+      "patientgender": "female",
+      "appointmentTime": "6pm-7pm",
+      "patientsymptoms": "6",
+      "patientcontact": 9876543210,
+      "specialization": "Cardiologist",
+      "appointmentDate": "2ndMarch",
+      "appointmentFullDate": "2021-03-02T18:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
